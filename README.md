@@ -1,2 +1,2 @@
-# epicwebsite.github.io
+# epicwebsite
 This is an epic website.
