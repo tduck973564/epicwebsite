@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin-left: 5.2rem; /* Navbar space */
+    font-family: "Roboto", "Noto Sans", "Open Sans", "Segoe", sans-serif;
+    font-size: 1.25em;
+    line-height: 2rem;
+}
+h1, h2 {
+    text-align: center;
+}
+header {
+    border-bottom-style: solid;
+    border-bottom-width: 0.2rem;
+    border-color: rgb(140, 140, 140)
+}
+main {
+    min-height: 100%;
+}
+footer, footer p {
+    position: static;
+    bottom: 0%;
+    top: 100%;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 3px 3px 3px 3px;
+}
