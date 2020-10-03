@@ -1,12 +1,13 @@
+/* Universal formatting */
 html, body {
     height: 100%;
     margin: 0;
     padding: 0;
 }
 body {
-    margin-left: 5.2rem; /* Navbar space */
+    margin-left: 5em; /* Navbar space */
     font-family: "Roboto", "Noto Sans", "Open Sans", "Segoe", sans-serif;
-    font-size: 1.25em;
+    font-size: 1.25rem;
     line-height: 2rem;
 }
 h1, h2 {
@@ -14,8 +15,8 @@ h1, h2 {
 }
 header {
     border-bottom-style: solid;
-    border-bottom-width: 0.2rem;
-    border-color: rgb(140, 140, 140)
+    border-bottom-width: 0.1rem;
+    border-color: rgb(140, 140, 140);
 }
 main {
     min-height: 100%;
