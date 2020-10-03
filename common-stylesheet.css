@@ -74,7 +74,7 @@ nav button:active {
         height: 100%;
         margin-top: 0;
         top: 0;
-        width: 4em;
+        width: 3.5em;
         overflow-x: hidden;
         background-color: black;
         box-shadow: 2px 0px 5px black;
@@ -93,7 +93,7 @@ nav button:active {
         background-color: transparent;
         border-style: none;
         color: white;
-        padding-left: 2em;
+        padding-left: 1.75em;
         cursor: pointer;
     }
     #content {
