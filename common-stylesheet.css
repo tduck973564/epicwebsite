@@ -68,7 +68,7 @@ nav button:active {
         margin-top: 5em; /* Navbar space */
     }
 }
-@media not screen and (max-width: 600px) {
+@media not screen and (max-width: 800px) {
     nav { 
         position: fixed;
         height: 100%;
